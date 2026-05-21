@@ -2,6 +2,6 @@ BC5-18 - Varios botones con acciones distintas
 
 Tres botones, cada uno imprime un texto diferente en consola.
 
-Se crean 3 botones que tendran un setOnAction con un System.out.println en cada boton distinto. Entonces cuando se pulsa cada
-boton se imprime un texto distinto.
+Se crean 3 botones que tendran un setOnAction con un System.out.println en cada boton distinto. 
+Entonces cuando se pulsa cada boton se imprime un texto distinto.
 Se ordenan los botones con vbox.
